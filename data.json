@@ -1,0 +1,194 @@
+{
+  "wallpapers": [
+    {
+      "id": 1,
+      "name": "Gundam Sky Fly",
+      "category": "Anime",
+      "image": "images/wallpapers/gundam-anime-8k-wallpaper-uhdpaper.com-724@3@a.jpg",
+      "resolution": "8K"
+    },
+    {
+      "id": 2,
+      "name": "Neon City",
+      "category": "urbano",
+      "image": "images/wallpapers/city-lights-night-scenery-4k-wallpaper-uhdpaper.com-545@5@f.jpg",
+      "resolution": "4K"
+    },
+    {
+      "id": 3,
+      "name": "Fluxo Digital",
+      "category": "tecnologia",
+      "image": "images/wallpapers/140251_adapted_1080x2520.jpg",
+      "resolution": "FHD"
+    },
+    {
+      "id": 4,
+      "name": "Sung Jinwoo Dark Aura",
+      "category": "Anime",
+      "image": "images/wallpapers/sung-jinwoo-solo-leveling-anime-4k-wallpaper-uhdpaper.com-142@5@d.jpg",
+      "resolution": "4K"
+    },
+    {
+      "id": 5,
+      "name": "Ashes of Captaim America",
+      "category": "Filmes",
+      "image": "images/wallpapers/wp2111258.jpg",
+      "resolution": "4K"
+    },
+    {
+      "id": 6,
+      "name": "Silence",
+      "category": "espaço",
+      "image": "images/wallpapers/94536_original_2560x1440.jpg",
+      "resolution": "FHD"
+    },
+    {
+      "id": 7,
+      "name": "Sunset Mountains",
+      "category": "Paisagens",
+      "image": "images/wallpapers/sunset-mountain-beautiful-digital-art-scenery-4k-wallpaper-uhdpaper.com-183@1@n.jpg",
+      "resolution": "FHD"
+    },
+    {
+      "id": 8,
+      "name": "Cyberpunk Girl",
+      "category": "Games",
+      "image": "images/wallpapers/cyberpunk-girl-sci-fi-digital-art-4k-wallpaper-uhdpaper.com-376@5@d.jpg",
+      "resolution": "4K"
+    },
+    {
+      "id": 9,
+      "name": "Snowy Mountain Sunrise",
+      "category": "natureza",
+      "image": "images/wallpapers/snowy-mountain-sunrise-scenery-4k-wallpaper-uhdpaper.com-346@5@c.jpg",
+      "resolution": "4K"
+    },
+    {
+      "id": 10,
+      "name": "Sunset City Clouds",
+      "category": "Anime",
+      "image": "images/wallpapers/sunset-city-clouds-sky-anime-art-scenery-4k-wallpaper-uhdpaper.com-155@5@b.jpg",
+      "resolution": "FHD"
+    },
+    {
+      "id": 11,
+      "name": "Sunset Beach",
+      "category": "natureza",
+      "image": "images/wallpapers/sunset-beach.jpg",
+      "resolution": "4K"
+    },
+    {
+      "id": 12,
+      "name": "Night Sky",
+      "category": "espaco",
+      "image": "images/wallpapers/night-sky.jpg",
+      "resolution": "FHD"
+    },
+    {
+      "id": 13,
+      "name": "Digital Waves",
+      "category": "tecnologia",
+      "image": "images/wallpapers/digital-waves.jpg",
+      "resolution": "4K"
+    },
+    {
+      "id": 14,
+      "name": "Coral Reef",
+      "category": "natureza",
+      "image": "images/wallpapers/coral-reef.jpg",
+      "resolution": "FHD"
+    },
+    {
+      "id": 15,
+      "name": "Geometric Art",
+      "category": "abstrato",
+      "image": "images/wallpapers/geometric-art.jpg",
+      "resolution": "4K"
+    },
+    {
+      "id": 16,
+      "name": "Tokyo Night",
+      "category": "urbano",
+      "image": "images/wallpapers/tokyo-night.jpg",
+      "resolution": "4K"
+    },
+    {
+      "id": 17,
+      "name": "Ice Crystal",
+      "category": "natureza",
+      "image": "images/wallpapers/ice-crystal.jpg",
+      "resolution": "FHD"
+    },
+    {
+      "id": 18,
+      "name": "Vaporwave",
+      "category": "abstrato",
+      "image": "images/wallpapers/vaporwave.jpg",
+      "resolution": "FHD"
+    },
+    {
+      "id": 19,
+      "name": "Nebula Color",
+      "category": "espaco",
+      "image": "images/wallpapers/nebula-color.jpg",
+      "resolution": "4K"
+    },
+    {
+      "id": 20,
+      "name": "Clean UI",
+      "category": "minimalista",
+      "image": "images/wallpapers/clean-ui.jpg",
+      "resolution": "FHD"
+    }
+  ],
+  "categories": [
+    {
+      "id": "natureza",
+      "name": "Natureza",
+      "icon": "🌿",
+      "description": "Paisagens, florestas, oceanos e montanhas",
+      "count": 248
+    },
+    {
+      "id": "abstrato",
+      "name": "Abstrato",
+      "icon": "🎨",
+      "description": "Arte digital, formas geométricas e gradientes",
+      "count": 312
+    },
+    {
+      "id": "tecnologia",
+      "name": "Tecnologia",
+      "icon": "💻",
+      "description": "UI designs, circuitos e futurismo digital",
+      "count": 186
+    },
+    {
+      "id": "minimalista",
+      "name": "Minimalista",
+      "icon": "✨",
+      "description": "Design limpo, cores suaves e simplicidade",
+      "count": 157
+    },
+    {
+      "id": "urbano",
+      "name": "Urbano",
+      "icon": "️",
+      "description": "Cidades, arquitetura e vida noturna",
+      "count": 203
+    },
+    {
+      "id": "espaco",
+      "name": "Espaço",
+      "icon": "",
+      "description": "Galáxias, nebulosas e paisagens cósmicas",
+      "count": 175
+    }
+  ],
+  "stats": {
+    "totalWallpapers": 1281,
+    "totalDownloads": 54700,
+    "totalCategories": 6,
+    "activeUsers": 8930
+  }
+}
