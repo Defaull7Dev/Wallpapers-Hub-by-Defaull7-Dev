@@ -72,37 +72,37 @@
     },
     {
       "id": 11,
-      "name": "Sunset Beach",
-      "category": "natureza",
-      "image": "images/wallpapers/sunset-beach.jpg",
+      "name": "White Lamborghini",
+      "category": "Carros",
+      "image": "images/wallpapers/131872_original_4160x6240.jpg",
       "resolution": "4K"
     },
     {
       "id": 12,
-      "name": "Night Sky",
-      "category": "espaco",
-      "image": "images/wallpapers/night-sky.jpg",
+      "name": "Plasma Waves",
+      "category": "Efeitos Visuais",
+      "image": "images/wallpapers/Vivid-Line Wallpaper Without Plasma Logo.png",
       "resolution": "FHD"
     },
     {
       "id": 13,
-      "name": "Digital Waves",
-      "category": "tecnologia",
-      "image": "images/wallpapers/digital-waves.jpg",
+      "name": "Master Chief Helmet",
+      "category": "Games",
+      "image": "images/wallpapers/wallpaperflare.com_wallpaper (8).jpg",
       "resolution": "4K"
     },
     {
       "id": 14,
-      "name": "Coral Reef",
+      "name": "Tree Grass Field",
       "category": "natureza",
-      "image": "images/wallpapers/coral-reef.jpg",
+      "image": "images/wallpapers/sunrise-grass-field-tree-scenery-4k-wallpaper-uhdpaper.com-284@5@d.jpg",
       "resolution": "FHD"
     },
     {
       "id": 15,
-      "name": "Geometric Art",
+      "name": "A Way for Sunset",
       "category": "abstrato",
-      "image": "images/wallpapers/geometric-art.jpg",
+      "image": "images/wallpapers/sunset-horizon-standing-alone-mountains-scenery-ai-art-4k-wallpaper-uhdpaper.com-715@1@l.jpg",
       "resolution": "4K"
     },
     {
