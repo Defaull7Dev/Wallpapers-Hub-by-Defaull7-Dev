@@ -107,38 +107,38 @@
     },
     {
       "id": 16,
-      "name": "Tokyo Night",
-      "category": "urbano",
-      "image": "images/wallpapers/tokyo-night.jpg",
+      "name": "Water Drops",
+      "category": "natureza",
+      "image": "images/wallpapers/2160x1920-Wallpaper_AppsApk_-124.jpg",
       "resolution": "4K"
     },
     {
       "id": 17,
-      "name": "Ice Crystal",
+      "name": "Beach Sunset",
       "category": "natureza",
-      "image": "images/wallpapers/ice-crystal.jpg",
+      "image": "images/wallpapers/beach-waves-sunset-scenery-4k-wallpaper-uhdpaper.com-570@5@e.jpg",
       "resolution": "FHD"
     },
     {
       "id": 18,
       "name": "Vaporwave",
       "category": "abstrato",
-      "image": "images/wallpapers/vaporwave.jpg",
+      "image": "images/wallpapers/909284.png",
       "resolution": "FHD"
     },
     {
       "id": 19,
-      "name": "Nebula Color",
-      "category": "espaco",
-      "image": "images/wallpapers/nebula-color.jpg",
-      "resolution": "4K"
+      "name": "Blue Cicle",
+      "category": "Wall",
+      "image": "images/wallpapers/b72edd732dbc4052f42660064fd462c9.jpg",
+      "resolution": "FHD"
     },
     {
       "id": 20,
-      "name": "Clean UI",
-      "category": "minimalista",
-      "image": "images/wallpapers/clean-ui.jpg",
-      "resolution": "FHD"
+      "name": "Autumn",
+      "category": "natureza",
+      "image": "images/wallpapers/autumn-landscape-4k-grandfailure-3840×2160.jpg",
+      "resolution": "4K"
     }
   ],
   "categories": [

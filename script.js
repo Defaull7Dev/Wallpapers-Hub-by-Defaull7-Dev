@@ -38,11 +38,11 @@ async function loadWallpaperData() {
             { id: 13, name: "Master Chief Helmet", category: "Games", image: "images/wallpapers/wallpaperflare.com_wallpaper (8).jpg", resolution: "4K" },
             { id: 14, name: "Tree Grass Field", category: "natureza", image: "images/wallpapers/sunrise-grass-field-tree-scenery-4k-wallpaper-uhdpaper.com-284@5@d.jpg", resolution: "FHD" },
             { id: 15, name: "A Way for Sunset", category: "abstrato", image: "images/wallpapers/sunset-horizon-standing-alone-mountains-scenery-ai-art-4k-wallpaper-uhdpaper.com-715@1@l.jpg", resolution: "4K" },
-            { id: 16, name: "Tokyo Night", category: "urbano", image: "images/wallpapers/tokyo-night.jpg", resolution: "4K" },
-            { id: 17, name: "Ice Crystal", category: "natureza", image: "images/wallpapers/ice-crystal.jpg", resolution: "FHD" },
-            { id: 18, name: "Vaporwave", category: "abstrato", image: "images/wallpapers/vaporwave.jpg", resolution: "FHD" },
-            { id: 19, name: "Nebula Color", category: "espaco", image: "images/wallpapers/nebula-color.jpg", resolution: "4K" },
-            { id: 20, name: "Clean UI", category: "minimalista", image: "images/wallpapers/clean-ui.jpg", resolution: "FHD" }
+            { id: 16, name: "Water Drops", category: "natureza", image: "images/wallpapers/2160x1920-Wallpaper_AppsApk_-124.jpg", resolution: "4K" },
+            { id: 17, name: "Beach", category: "natureza", image: "images/wallpapers/beach-waves-sunset-scenery-4k-wallpaper-uhdpaper.com-570@5@e.jpg", resolution: "FHD" },
+            { id: 18, name: "Vaporwave", category: "abstrato", image: "images/wallpapers/909284.png", resolution: "FHD" },
+            { id: 19, name: "Blue Cicle", category: "Wall", image: "images/wallpapers/b72edd732dbc4052f42660064fd462c9.jpg", resolution: "4K" },
+            { id: 20, name: "Autumn", category: "natureza", image: "images/wallpapers/autumn-landscape-4k-grandfailure-3840×2160.jpg", resolution: "4K" }
         ];
         sliderImages = galleryData.slice(0, 6);
         renderGallery(displayedCount);
