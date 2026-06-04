@@ -3,7 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="images/Defaull7 Transparent.ico">
     <title>Wallpapers Hub — Papéis de Parede Premium</title>
+    <meta name="description" content="Explore a maior coleção de papéis de parede premium para desktop e mobile. Encontre wallpapers 4K, Full HD e exclusivos para personalizar seus dispositivos.">
+    <meta name="author" content="NickDev">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -193,12 +196,14 @@
                 <small>Seja o primeiro a comentar!</small>
             </div>
         </div>
-        <form class="comments-form" id="commentsForm" onsubmit="submitComment(event)">
-            <input type="text" class="form-input" id="commentName" placeholder="Nome *" required>
-            <input type="email" class="form-input" id="commentEmail" placeholder="Email *" required>
-            <textarea class="form-input" id="commentText" placeholder="Seu comentário *" required></textarea>
-            <button type="submit" class="submit-btn">Enviar comentário</button>
-        </form>
+        <form class="comments-form" id="commentsForm" action="https://formspree.io/f/mkoanqad" method="POST">
+             <input type="text" name="name" class="form-input" id="commentName" placeholder="Nome *" required>
+             <input type="email" name="email" class="form-input" id="commentEmail" placeholder="Email *" required>
+             <textarea name="message" class="form-input" id="commentText" placeholder="Seu comentário *" required rows="3"></textarea>
+             <input type="hidden" name="_subject" value="Novo comentário - Wallpapers Hub">
+             <button type="submit" class="submit-btn" id="submitBtn">Enviar comentário</button>
+             <p id="formStatus" class="form-status"></p>
+</form>
     </div>
 </div>
 
